@@ -12,3 +12,5 @@ While creating this part I mainly use Position but I also use z-index
 
 <img src="./Landing Page 2.png" width=600 height=300>
 
+<img src="./Landing Page 3.png" width=800 height=300>
+

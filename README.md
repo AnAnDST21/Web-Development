@@ -8,3 +8,7 @@ I also used many other keywords such as Hover for to change the color of icon.
 
 <img src= "./Landing Page.png" width=600 height=300>
 
+While creating this part I mainly use Position but I also use z-index 
+
+<img src="./Landing Page 2.png" width=600 height=300>
+

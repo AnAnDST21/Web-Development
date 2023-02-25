@@ -18,3 +18,6 @@ For creating this I use Div for and Bootstrap most exciting thing Carousel and f
 
 <img src="./Landing Page 4.png" width=600 height=350>
 
+Here I use Footer and Bootstrap Icons.
+
+<img src="./Landing Page 5.png" width=600 height=350>
